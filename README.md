@@ -1,5 +1,5 @@
 ### Hi there 👋I am Allwen! Welcome to my homepage! 
-⚡My interest is c++ programming. 👯If you have any questions about my project, please contact me by 1041268906@qq.com!
+👯If you have any questions about my project, please contact me by allwen_zhao@foxmail.com!
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 <!--

@@ -1,7 +1,7 @@
 ### Hi there 👋I am Allwen! Welcome to my homepage! 
 👯If you have any questions about my project, please contact me by allwen_zhao@foxmail.com!
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+![Allwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 <!--
 **AllwenWeill/AllwenWeill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
